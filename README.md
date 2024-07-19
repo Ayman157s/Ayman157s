@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ayman157s
+- 👋 Hi, I’m Ayman Shalaby
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning web development with python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.. this is my whatsapp +02 01147050058
 
 <!---
