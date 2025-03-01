@@ -2,7 +2,6 @@
 
 - 🎓 I am a junior computer science student working on expanding my knowledge and gaining hands-on experience in software development.
 - 👀 I’m interested in web development, AI and data analysis.  
-- 🌱 I’m currently learning web development and enhancing my skills in backend development and data structures.  
 - 🛠️ My main skills include Python, C++, HTML, CSS, Bootstrap, Flask, and database management.   
 - 🚀 I am focused on advancing my career by learning new technologies and taking on challenging projects.  
 - 📫 You can reach me at: ayman.shalaby157@mail.com  
